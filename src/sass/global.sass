@@ -1,0 +1,148 @@
+body
+   font-family: 'Gotham', sans-serif
+   background: #ffff
+   color: #000
+   font-size: 15px
+   font-weight: 300
+   line-height: 25px
+a
+   text-decoration: none
+   box-sizing: border-box
+   transition: 0.5s !important
+   &:hover 
+      color: $brown
+.container
+   padding: 0 25px
+   max-width: 1454px
+   margin: 0 auto
+   @media ( max-width: 1199px )
+      max-width: 960px !important
+   @media (max-width: 991px)
+      max-width: 720px !important
+   @media (max-width: 767px)
+      max-width: 540px !important
+.d-flex
+   display: flex
+.body-wrap
+   overflow: hidden
+   position: relative
+   display: flex
+   flex-direction: column
+   min-height: 100vh
+footer
+   margin-top: auto
+h1
+   color: #FFF
+   font-size: 72px
+   font-style: normal
+   font-weight: 700
+   line-height: normal
+   font-family: 'Cormorant Garamond'
+   margin: 0
+h2 
+   margin: 0
+   color: #000
+   font-family: 'Cormorant Garamond'
+   font-size: 52px
+   font-style: normal
+   font-weight: 600
+   line-height: 58px
+ul 
+   margin: 0
+   padding: 0
+   list-style-type: none
+p
+   margin: 0
+.svg 
+   transition: 0.5s ease
+a
+   transition: color 0.5s ease
+   box-sizing: border-box
+li
+   a
+      transition: color 0.5s ease
+button
+   cursor: pointer
+   box-sizing: border-box
+textarea
+   transition: border 0.5s
+   box-sizing: border-box
+   &:focus
+      transition: border 0.5s
+      outline: none
+      border: 1px solid $brown !important
+input
+   transition: 0.5s
+   box-sizing: border-box
+   border: 1px solid #fff
+   &:disabled
+      pointer-events: none
+      opacity: 0.5
+   &:focus 
+      border: 1px solid $brown !important
+      transition: 0.5s
+   &:focus-visible
+      outline: initial
+path, rect
+   transition: fill 0.5s, stroke 0.5s
+div 
+   box-sizing: border-box
+.icon 
+   transition: fill 0.5s, stroke 0.5s
+html * 
+   scrollbar-width: thin
+   scrollbar-color: blue $brown
+*::-webkit-scrollbar,
+html *::-webkit-scrollbar 
+   height: 4px
+   width: 4px
+*::-webkit-scrollbar-track,
+html *::-webkit-scrollbar-track 
+   background: #E7E7E7
+   border-radius: 3px
+*::-webkit-scrollbar-thumb,
+html *::-webkit-scrollbar-thumb 
+   background-color: $brown
+   border-radius: 6px
+.nav-main 
+   scrollbar-width: thin
+   scrollbar-color: blue white
+.tabs__nav::-webkit-scrollbar,
+.tabs__nav::-webkit-scrollbar 
+   height: 1px
+   width: 1px
+.tabs__nav::-webkit-scrollbar-track,
+.tabs__nav::-webkit-scrollbar-track 
+   background: transparent
+   border-radius: 3px
+.tabs__nav::-webkit-scrollbar-thumb,
+.tabs__nav::-webkit-scrollbar-thumb 
+   background-color: transparent
+   border-radius: 6px
+.tabs__nav::-webkit-scrollbar,
+.tabs__nav::-webkit-scrollbar 
+   height: 1px
+   width: 1px
+.btn 
+   display: flex
+   align-items: center
+   justify-content: center
+   width: 210px
+   height: 54px
+   transition: 0.5s
+   color: #FFF
+   font-size: 12px
+   font-weight: 500
+   border: 1px solid #FFF
+   &:hover 
+      background: white
+      border: 1px solid white
+      color: black
+   &_2
+      border: 1px solid #000
+      background: transparent 
+      color: black
+      &:hover 
+         background: black
+         border: 1px solid #000
+         color: white
