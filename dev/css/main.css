@@ -325,64 +325,64 @@ html *::-webkit-scrollbar-thumb {
 
 @font-face {
   font-family: 'Cormorant Garamond';
-  src: url("/fonts/CormorantGaramond-Medium.eot");
-  src: url("/fonts/CormorantGaramond-Medium.eot?#iefix") format("embedded-opentype"), url("/fonts/CormorantGaramond-Medium.woff2") format("woff2"), url("/fonts/CormorantGaramond-Medium.woff") format("woff"), url("/fonts/CormorantGaramond-Medium.ttf") format("truetype"), url("/fonts/CormorantGaramond-Medium.svg#CormorantGaramond-Medium") format("svg");
+  src: url("../fonts/CormorantGaramond-Medium.eot");
+  src: url("../fonts/CormorantGaramond-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/CormorantGaramond-Medium.woff2") format("woff2"), url("../fonts/CormorantGaramond-Medium.woff") format("woff"), url("../fonts/CormorantGaramond-Medium.ttf") format("truetype"), url("../fonts/CormorantGaramond-Medium.svg#CormorantGaramond-Medium") format("svg");
   font-weight: 500;
   font-style: normal;
   font-display: swap; }
 
 @font-face {
   font-family: 'Cormorant Garamond';
-  src: url("/fonts/CormorantGaramond-Regular.eot");
-  src: url("/fonts/CormorantGaramond-Regular.eot?#iefix") format("embedded-opentype"), url("/fonts/CormorantGaramond-Regular.woff2") format("woff2"), url("/fonts/CormorantGaramond-Regular.woff") format("woff"), url("/fonts/CormorantGaramond-Regular.ttf") format("truetype"), url("/fonts/CormorantGaramond-Regular.svg#CormorantGaramond-Regular") format("svg");
+  src: url("../fonts/CormorantGaramond-Regular.eot");
+  src: url("../fonts/CormorantGaramond-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/CormorantGaramond-Regular.woff2") format("woff2"), url("../fonts/CormorantGaramond-Regular.woff") format("woff"), url("../fonts/CormorantGaramond-Regular.ttf") format("truetype"), url("../fonts/CormorantGaramond-Regular.svg#CormorantGaramond-Regular") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: swap; }
 
 @font-face {
   font-family: 'Gotham';
-  src: url("/fonts/Gotham-Medium.eot");
-  src: url("/fonts/Gotham-Medium.eot?#iefix") format("embedded-opentype"), url("/fonts/Gotham-Medium.woff2") format("woff2"), url("/fonts/Gotham-Medium.woff") format("woff"), url("/fonts/Gotham-Medium.ttf") format("truetype"), url("/fonts/Gotham-Medium.svg#Gotham-Medium") format("svg");
+  src: url("../fonts/Gotham-Medium.eot");
+  src: url("../fonts/Gotham-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/Gotham-Medium.woff2") format("woff2"), url("../fonts/Gotham-Medium.woff") format("woff"), url("../fonts/Gotham-Medium.ttf") format("truetype"), url("../fonts/Gotham-Medium.svg#Gotham-Medium") format("svg");
   font-weight: 500;
   font-style: normal;
   font-display: swap; }
 
 @font-face {
   font-family: 'Gotham';
-  src: url("/fonts/Gotham-Black.eot");
-  src: url("/fonts/Gotham-Black.eot?#iefix") format("embedded-opentype"), url("/fonts/Gotham-Black.woff2") format("woff2"), url("/fonts/Gotham-Black.woff") format("woff"), url("/fonts/Gotham-Black.ttf") format("truetype"), url("/fonts/Gotham-Black.svg#Gotham-Black") format("svg");
+  src: url("../fonts/Gotham-Black.eot");
+  src: url("../fonts/Gotham-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/Gotham-Black.woff2") format("woff2"), url("../fonts/Gotham-Black.woff") format("woff"), url("../fonts/Gotham-Black.ttf") format("truetype"), url("../fonts/Gotham-Black.svg#Gotham-Black") format("svg");
   font-weight: 900;
   font-style: normal;
   font-display: swap; }
 
 @font-face {
   font-family: 'Gotham';
-  src: url("/fonts/Gotham-Book.eot");
-  src: url("/fonts/Gotham-Book.eot?#iefix") format("embedded-opentype"), url("/fonts/Gotham-Book.woff2") format("woff2"), url("/fonts/Gotham-Book.woff") format("woff"), url("/fonts/Gotham-Book.ttf") format("truetype"), url("/fonts/Gotham-Book.svg#Gotham-Book") format("svg");
+  src: url("../fonts/Gotham-Book.eot");
+  src: url("../fonts/Gotham-Book.eot?#iefix") format("embedded-opentype"), url("../fonts/Gotham-Book.woff2") format("woff2"), url("../fonts/Gotham-Book.woff") format("woff"), url("../fonts/Gotham-Book.ttf") format("truetype"), url("../fonts/Gotham-Book.svg#Gotham-Book") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: swap; }
 
 @font-face {
   font-family: 'Cormorant Garamond';
-  src: url("/fonts/CormorantGaramond-Bold.eot");
-  src: url("/fonts/CormorantGaramond-Bold.eot?#iefix") format("embedded-opentype"), url("/fonts/CormorantGaramond-Bold.woff2") format("woff2"), url("/fonts/CormorantGaramond-Bold.woff") format("woff"), url("/fonts/CormorantGaramond-Bold.ttf") format("truetype"), url("/fonts/CormorantGaramond-Bold.svg#CormorantGaramond-Bold") format("svg");
+  src: url("../fonts/CormorantGaramond-Bold.eot");
+  src: url("../fonts/CormorantGaramond-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/CormorantGaramond-Bold.woff2") format("woff2"), url("../fonts/CormorantGaramond-Bold.woff") format("woff"), url("../fonts/CormorantGaramond-Bold.ttf") format("truetype"), url("../fonts/CormorantGaramond-Bold.svg#CormorantGaramond-Bold") format("svg");
   font-weight: bold;
   font-style: normal;
   font-display: swap; }
 
 @font-face {
   font-family: 'Gotham';
-  src: url("/fonts/Gotham-Light.eot");
-  src: url("/fonts/Gotham-Light.eot?#iefix") format("embedded-opentype"), url("/fonts/Gotham-Light.woff2") format("woff2"), url("/fonts/Gotham-Light.woff") format("woff"), url("/fonts/Gotham-Light.ttf") format("truetype"), url("/fonts/Gotham-Light.svg#Gotham-Light") format("svg");
+  src: url("../fonts/Gotham-Light.eot");
+  src: url("../fonts/Gotham-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Gotham-Light.woff2") format("woff2"), url("../fonts/Gotham-Light.woff") format("woff"), url("../fonts/Gotham-Light.ttf") format("truetype"), url("../fonts/Gotham-Light.svg#Gotham-Light") format("svg");
   font-weight: 300;
   font-style: normal;
   font-display: swap; }
 
 @font-face {
   font-family: 'Gotham';
-  src: url("/fonts/Gotham-Bold.eot");
-  src: url("/fonts/Gotham-Bold.eot?#iefix") format("embedded-opentype"), url("/fonts/Gotham-Bold.woff2") format("woff2"), url("/fonts/Gotham-Bold.woff") format("woff"), url("/fonts/Gotham-Bold.ttf") format("truetype"), url("/fonts/Gotham-Bold.svg#Gotham-Bold") format("svg");
+  src: url("../fonts/Gotham-Bold.eot");
+  src: url("../fonts/Gotham-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Gotham-Bold.woff2") format("woff2"), url("../fonts/Gotham-Bold.woff") format("woff"), url("../fonts/Gotham-Bold.ttf") format("truetype"), url("../fonts/Gotham-Bold.svg#Gotham-Bold") format("svg");
   font-weight: bold;
   font-style: normal;
   font-display: swap; }
@@ -502,7 +502,7 @@ input:-moz-placeholder {
   margin-right: 11px; }
 
 .custom-checkbox:checked + label::before {
-  background: url(/img/tick.png) no-repeat center center;
+  background: url(../img/tick.png) no-repeat center center;
   background-size: 8px; }
 
 .checkbox p {
@@ -612,12 +612,12 @@ input[type=range]::-webkit-slider-thumb {
   pointer-events: all;
   width: 18px;
   height: 13px;
-  background: url(/img/range.png) no-repeat center 0px;
+  background: url(../img/range.png) no-repeat center 0px;
   cursor: pointer;
   border: none; }
 
 input[type=range]:nth-child(2)::-webkit-slider-thumb {
-  background: url(/img/range.png) no-repeat center 0px !important;
+  background: url(../img/range.png) no-repeat center 0px !important;
   position: relative;
   top: -2px; }
 
@@ -626,7 +626,7 @@ input[type=range]::-moz-range-thumb {
   pointer-events: all;
   width: 18px;
   height: 13px;
-  background: url(/img/range.png) no-repeat center 0px;
+  background: url(../img/range.png) no-repeat center 0px;
   cursor: pointer; }
 
 input[type=number]::-webkit-inner-spin-button,
@@ -717,7 +717,7 @@ input[type="range"] {
   height: 5px;
   text-align: center;
   vertical-align: top;
-  background: url(/img/down-arrow.png) no-repeat !important;
+  background: url(../img/down-arrow.png) no-repeat !important;
   position: absolute;
   right: -16px;
   top: 8px; }
@@ -880,7 +880,7 @@ input[type="range"] {
   content: "";
   position: absolute;
   right: 0px;
-  background: url(/img/down-arrow.png) no-repeat !important;
+  background: url(../img/down-arrow.png) no-repeat !important;
   width: 10px;
   left: inherit;
   height: 6px;
@@ -896,7 +896,7 @@ input[type="range"] {
   content: "";
   position: absolute;
   right: 0px;
-  background: url(/img/down-arrow.png) no-repeat !important;
+  background: url(../img/down-arrow.png) no-repeat !important;
   width: 10px;
   left: inherit;
   height: 6px;
@@ -998,7 +998,7 @@ textarea:-moz-placeholder {
   display: flex;
   flex: 1 0 auto;
   max-width: 40px;
-  background: url(/img/menu.svg) no-repeat;
+  background: url(../img/menu.svg) no-repeat;
   cursor: pointer; }
 
 .menu-btn span {
@@ -1900,7 +1900,7 @@ textarea:-moz-placeholder {
     max-width: 16px;
     margin-right: 10px; }
   .popup .custom-checkbox:checked + label::before {
-    background: url(/img/check.svg) center center/11px no-repeat;
+    background: url(../img/check.svg) center center/11px no-repeat;
     background-color: #7A704C;
     border: 1px solid #7A704C; }
 
@@ -2103,7 +2103,7 @@ textarea:-moz-placeholder {
     max-width: 16px;
     margin-right: 10px; }
   .cont .custom-checkbox:checked + label::before {
-    background: url(/img/check.svg) center center/11px no-repeat;
+    background: url(../img/check.svg) center center/11px no-repeat;
     background-color: #7A704C;
     border: 1px solid #7A704C; }
   .cont__right {
@@ -2161,7 +2161,7 @@ textarea:-moz-placeholder {
     font-weight: 300;
     margin-top: 15px; }
   .news__top .selectCF .arrowCF {
-    background: url(/img/arrow.svg) no-repeat !important;
+    background: url(../img/arrow.svg) no-repeat !important;
     width: 20px;
     height: 20px;
     right: 9px;
@@ -2718,7 +2718,7 @@ textarea:-moz-placeholder {
     font-weight: 300;
     margin-top: 13px; }
   .card .selectCF .arrowCF {
-    background: url(/img/arrow.svg) no-repeat !important;
+    background: url(../img/arrow.svg) no-repeat !important;
     width: 20px;
     height: 20px;
     right: 9px;
@@ -2748,7 +2748,7 @@ textarea:-moz-placeholder {
     line-height: normal;
     width: max-content; }
     .card .accordeon__button:after {
-      background: url(/img/own.svg) no-repeat !important;
+      background: url(../img/own.svg) no-repeat !important;
       right: -16px;
       width: 12px;
       left: inherit;
@@ -2841,7 +2841,7 @@ textarea:-moz-placeholder {
       font-size: 13px;
       margin-bottom: 5px; }
   .card .accordeon__button2:after, .card .accordeon__button3:after, .card .accordeon__button4:after, .card .accordeon__button5:after, .card .accordeon__button6:after {
-    background: url(/img/own2.svg) no-repeat !important;
+    background: url(../img/own2.svg) no-repeat !important;
     right: 0px;
     width: 15px;
     left: inherit;
@@ -3173,7 +3173,7 @@ input[type=number]::-webkit-outer-spin-button {
   transition: 0.2s;
   width: 20px;
   height: 20px;
-  background: url(/img/check2.svg) no-repeat center center;
+  background: url(../img/check2.svg) no-repeat center center;
   background-color: #ffffff;
   max-width: 20px;
   margin-right: 14px;
@@ -3181,7 +3181,7 @@ input[type=number]::-webkit-outer-spin-button {
   border: 1px solid white; }
 
 .custom-checkbox:checked + label::before {
-  background: url(/img/check2.svg) no-repeat center center;
+  background: url(../img/check2.svg) no-repeat center center;
   background-color: #000;
   border: 1px solid #000; }
 
